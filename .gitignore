@@ -1,0 +1,45 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled executables
+*.exe
+*.out
+
+# C++ build artifacts
+build/
+bin/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE specific files
+.vscode/
+*.code-workspace
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Large data files and sensitive/ignored data
+*.nfs*
+data/Beijing/
+data/Shanghai/
+data/Hangzhou/
+data_bin/Hangzhou/
+model/encrypt_func.py
+logs/
+baselines/BERT/embeddings/
+model/cache/
+scripts/
