@@ -42,4 +42,3 @@ model/encrypt_func.py
 logs/
 baselines/BERT/embeddings/
 model/cache/
-scripts/
