@@ -5,7 +5,7 @@
 ## Quick Start
 
 - With this repository, you can
-  - Download the Bloom filters and the (anonymized) locations of Beijing and Shanghai datasets.
+  - Download the Bloom filters, BERT/DPR/OpenAI embeddings, and the (anonymized) locations of Beijing and Shanghai datasets.
   - Quickly reproduce all effectiveness results in prediction and retrieval tasks.
   - Compare with baselines DGI and MVGRL.
 
@@ -34,7 +34,7 @@ We require the following packages:
 ### Emebeddings for baselines
 
 - The raw Beijing and Shanghai datasets are not provided due to license constraints.
-- However, we provide the OpenAI, BERT, and trained DPR embeddings in Beijing and Shanghai so you can fully reproduce the results in the paper. [Google Drive](https://drive.google.com/drive/folders/1GeB7A90cocWvUJGysVxyK1pqyHKcfX5B?usp=drive_link)
+- However, we provide the OpenAI, BERT, and trained DPR embeddings in Beijing and Shanghai so you can fully reproduce the results in the paper. [BERT](https://anonymfile.com/JEWER/bert.zip)[DPR](https://anonymfile.com/6NKNx/dpr.zip)[OpenAI](https://anonymfile.com/La5aQ/openai.zip)
 - Please store the embeddings in the baselines/BERT/embeddings/ folder. (See baselines/GraphMethods/*.py)
 
 ## Thanks for reading!
