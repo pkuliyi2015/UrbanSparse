@@ -34,7 +34,7 @@ We require the following packages:
 ### Emebeddings for baselines
 
 - The raw Beijing and Shanghai datasets are not provided due to license constraints.
-- However, we provide the OpenAI, BERT, and trained DPR embeddings in Beijing and Shanghai so you can fully reproduce the results in the paper. [BERT](https://anonymfile.com/JEWER/bert.zip)[DPR](https://anonymfile.com/6NKNx/dpr.zip)[OpenAI](https://anonymfile.com/La5aQ/openai.zip)
+- However, we provide the OpenAI, BERT, and trained DPR embeddings in Beijing and Shanghai so you can fully reproduce the results in the paper. [Link](https://figshare.com/s/f01cd1d201a9d8577f5a)
 - Please store the embeddings in the baselines/BERT/embeddings/ folder. (See baselines/GraphMethods/*.py)
 
 ## Thanks for reading!
